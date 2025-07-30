@@ -504,4 +504,9 @@ body {
         margin: 0 auto 1rem;
         display: block;
     }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
 }
