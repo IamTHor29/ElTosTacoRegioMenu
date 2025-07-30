@@ -450,7 +450,7 @@ body {
     }
 }
 
-@media (max-width: 430px) and (min-height: 800px) {
+@media (max-width: 430px) {
 
     html,
     body {
