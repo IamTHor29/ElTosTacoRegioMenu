@@ -1,0 +1,25 @@
+.menucontainer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+    font-family: Arial, sans-serif;
+}
+
+.main-title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.menu-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+.card-title {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+    background-color: #f08989;
+}
